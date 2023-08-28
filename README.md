@@ -12,23 +12,26 @@ In addition, our pre-processing depends on a 3D reconstruction approach "DECA: D
 ## Usage
 
 ### Pre-processing
+Given a portrait video (with a static background), we first extract the frames and crop the human face part out at the resolution of 512 x 512 by running
+```
+python pre-processing.py -i [video_path, xxx.mp4] -o [data_path, /%05d.jpg]
+```
+Sometimes the cropping will not be perfect, as some portraits have special facial structures. Please feel free to adjust the ratio value in this script, so that the entire human head part can be included.
 
+![image](https://github.com/uniBruce/Mead/blob/master/Figures/dataset.png)
+                  
 
 ### Training
-#### Stage 1: Audio-to-Landmarks Module
+#### Stage 1: Efficient Portrait Modeling
 ```
-cd Audio2Landmark
-python train.py --config config.yaml
+cd Grid_Codebook_Modeling
+python main.py --base configs/obama_sliding_4.yaml -t True --gpu [gpu_id]
 ```
-#### Stage 2: Neutral-to-Emotion Transformer
+The training data folder can be assigned at "Grid_Codebook_Modeling/config/lrw_train.yaml"
+#### Stage 2: Landmark-to-Image Reenactment
 ```
-cd Neutral2Emotion
-python train.py --config config.yaml
-```
-#### Stage 3: Refinement Network
-```
-cd Refinement
-python train.py --config config.yaml
+cd Reenactment
+python train_single.py --data_root ['your dataset path'] -m ['Subject_name'] --load_path ['Pretrain Model path'] --gpu ["gpu_id"]
 ```
 ### Testing
 1. First, download the [pretrained models](https://drive.google.com/drive/folders/1NgW0pqKU-jawqSi-RXiebUcI1_qj6wxM?usp=sharing) and put them in models folder.
