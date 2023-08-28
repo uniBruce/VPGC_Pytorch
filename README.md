@@ -7,7 +7,7 @@ This repository is a PyTorch implementation of our Siggraph 2023 paper [Efficien
 
 ## Installation 
 This repository is based on Pytorch, so please follow the official instructions [here](https://pytorch.org/). The code is tested under pytorch1.7 and Python 3.6 on Ubuntu 16.04.
-In addition, our pre-processing depends on a 3D reconstruction approach "DECA: Detailed Expression Capture and Animation" to produce 2D facial landmarks as driving signals. Please follow [here](https://github.com/yfeng95/DECA) to install it.
+In addition, our pre-processing depends on a 3D reconstruction approach **DECA: Detailed Expression Capture and Animation** to produce 2D facial landmarks as driving signals. Please follow [here](https://github.com/yfeng95/DECA) to install it.
 
 ## Usage
 
