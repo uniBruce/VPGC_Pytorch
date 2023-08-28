@@ -1,0 +1,5 @@
+subject:
+  ####### put your data directory after data_root ##########
+  data_root: '../../../Backup/Dataset/Dataset/Obama'
+  batch_internal: 4
+  isTrain: False

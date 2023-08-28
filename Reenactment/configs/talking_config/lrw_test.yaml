@@ -1,0 +1,22 @@
+dataset:
+  frame_interval: 2
+  clip_len: 1
+  num_clips: 1
+  num_frames_per_clip: 5
+  hop_size: 160
+  crop_size: 256
+  load_frames: True
+  load_input: False
+  load_audio: True
+  datatype: lrw
+  img_lmdb_paths: ['/root/lrw/imgs/0_100/']
+  audio_lmdb_paths: []
+  num_inputs: 1
+  load_word_label: True
+  data_ratio_per_epoch: 1
+  load_ref: True
+
+obama:
+  data_root: '../LiveSpeechPortraits-main/Crop/'
+  batch_internal: 4
+  isTrain: False

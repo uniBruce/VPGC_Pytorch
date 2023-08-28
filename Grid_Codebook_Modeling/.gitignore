@@ -1,0 +1,13 @@
+__pycache__
+.idea
+*.ckpt
+logs
+*.jpg
+*.png
+*.zip
+*.pyc
+*.pth
+*.tar
+***.npy
+*.npy
+*.mdb

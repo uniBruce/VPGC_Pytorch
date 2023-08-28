@@ -1,0 +1,38 @@
+dataset:
+  frame_interval: 2
+  clip_len: 2
+  num_clips: 1
+  num_frames_per_clip: 5
+  hop_size: 160
+  crop_size: 256
+  frame_rate: 25
+  sample_rate: 16000
+  num_mels: 80
+  fft_size: 1280
+  hop_size: 160
+  num_bins_per_frame: 4
+  load_frames: True
+  load_input: False
+  load_spec: False
+  load_audio: False
+  datatype: lrw
+  img_lmdb_paths: ['/root/lrw/imgs/0_100/',
+                    '/root/lrw/imgs/100_200/',
+                    '/root/lrw/imgs/200_300/',
+                    '/root/lrw/imgs/300_400/',
+                    '/root/lrw/imgs/400_500/'
+                    ]
+  spec_lmdb_paths: ['/root/paddlejob/workspace/zhouhang/lrw/spec160/'
+                    ]
+  audio_lmdb_paths: []
+  num_inputs: 1
+  load_word_label: False
+  data_ratio_per_epoch: 1
+  load_ref: False
+  load_aug: False
+  load_half: True
+
+obama:
+  data_root: '../LiveSpeechPortraits-main/Crop/'
+  batch_internal: 4
+  isTrain: True

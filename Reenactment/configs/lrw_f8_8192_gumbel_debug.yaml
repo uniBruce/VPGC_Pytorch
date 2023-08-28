@@ -1,0 +1,58 @@
+model:
+  base_learning_rate: 4.5e-06
+  target: taming.models.vqgan.GumbelVQ
+  params:
+    kl_weight: 1.0e-08
+    embed_dim: 256
+    n_embed: 8192
+    monitor: val/rec_loss
+    temperature_scheduler_config:
+      target: taming.lr_scheduler.LambdaWarmUpCosineScheduler
+      params:
+        warm_up_steps: 0
+        max_decay_steps: 1000001
+        lr_start: 0.9
+        lr_max: 0.9
+        lr_min: 1.0e-06
+    ddconfig:
+      double_z: false
+      z_channels: 256
+      resolution: 256
+      in_channels: 3
+      out_ch: 3
+      ch: 128
+      ch_mult:
+      - 1
+      - 1
+      - 2
+      - 4
+      num_res_blocks: 2
+      attn_resolutions:
+      - 32
+      dropout: 0.0
+
+    lossconfig:
+      target: taming.modules.losses.vqperceptual.VQLPIPSWithDiscriminator
+      params:
+        disc_conditional: False
+        disc_in_channels: 3
+        disc_start: 10000
+        disc_weight: 0.8
+        codebook_weight: 1.0
+
+data:
+  target: main.DataModuleFromConfig
+  params:
+    batch_size: 10
+    num_workers: 8
+    train:
+      target: taming.data.lrw.LRWTrain
+      params:
+        training_images_list_file: configs/talking_config/lrw_train.yaml
+        size: 256
+    validation:
+      target: taming.data.lrw.LRWTest
+      params:
+        test_images_list_file: configs/talking_config/lrw_val.yaml
+        size: 256
+

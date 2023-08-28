@@ -1,0 +1,732 @@
+2022-03-15 21:55:14,834 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:14,865 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:14,869 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:14,900 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:14,938 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:14,978 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:14,990 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:15,016 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:15,025 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:15,050 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:15,074 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:15,102 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:15,117 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:15,143 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:15,503 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:15,535 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:15,581 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:15,611 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:15,618 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:15,644 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:15,673 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:15,710 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:16,077 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:16,086 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:16,113 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:16,127 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:16,191 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:16,195 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:16,229 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:16,240 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:16,261 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:16,305 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:16,324 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:16,346 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:16,370 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:16,389 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:17,316 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:17,324 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:17,361 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:17,362 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:17,417 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:17,431 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:17,458 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:17,471 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:17,487 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:17,522 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:17,558 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:17,589 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:17,599 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:17,630 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:18,545 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:18,548 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:18,583 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:18,589 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:18,650 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:18,680 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:18,691 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:18,718 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:18,721 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:18,754 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:18,777 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:18,784 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:18,810 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:18,820 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:19,771 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:19,773 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:19,811 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:19,813 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:19,888 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:19,905 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:19,915 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:19,929 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:19,947 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:19,949 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:20,008 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:20,008 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:20,044 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:20,048 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:20,993 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:21,001 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:21,038 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:21,042 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:21,113 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:21,126 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:21,149 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:21,154 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:21,167 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:21,190 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:21,199 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:21,230 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-15 21:55:21,235 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-15 21:55:21,263 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:12,777 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:12,811 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:12,823 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:12,852 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:12,864 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:12,889 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:12,922 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:12,963 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:12,970 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:12,980 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:13,008 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:13,012 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:13,017 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:13,043 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:13,401 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:13,435 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:13,454 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:13,487 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:13,526 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:13,543 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:13,559 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:13,577 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:14,038 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:14,068 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:14,077 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:14,076 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:14,108 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:14,119 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:14,195 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:14,213 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:14,220 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:14,234 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:14,248 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:14,247 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:14,266 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:14,288 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:15,276 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:15,306 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:15,312 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:15,318 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:15,352 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:15,355 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:15,420 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:15,433 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:15,434 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:15,452 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:15,464 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:15,474 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:15,476 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:15,487 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:16,532 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:16,540 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:16,562 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:16,577 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:16,581 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:16,606 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:16,637 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:16,659 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:16,668 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:16,684 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:16,684 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:16,703 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:16,710 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:16,719 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:17,758 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:17,786 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:17,788 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:17,797 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:17,821 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:17,833 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:17,864 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:17,874 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:17,894 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:17,907 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:17,906 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:17,918 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:17,932 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:17,947 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:18,956 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:18,992 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:19,030 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:19,055 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:19,071 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:19,078 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:19,097 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:19,100 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:19,113 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:19,124 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:19,144 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:19,154 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 11:36:19,160 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 11:36:19,194 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:12,563 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:12,604 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:12,615 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:12,649 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:12,661 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:12,689 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:12,695 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:12,709 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:500
+2022-03-16 15:34:12,717 [main] ERROR c.b.a.agent.common.http.HttpClient 219 - http client exception:
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://icoding.baidu-int.com/agent/v1/register
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.6.0_24]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[na:1.6.0_24]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.6.0_24]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:532) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1458) ~[na:1.6.0_24]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1452) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1106) ~[na:1.6.0_24]
+	at com.baidu.agile.agent.common.http.HttpClient.request(HttpClient.java:206) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.common.http.HttpClient.requestRetryTimes(HttpClient.java:163) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.common.http.HttpClient.post(HttpClient.java:158) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.register.Register.register(Register.java:22) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.Launcher.start(Launcher.java:45) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.Main.main(Main.java:44) [agent.jar:1.0-SNAPSHOT]
+Caused by: java.io.IOException: Server returned HTTP response code: 500 for URL: http://icoding.baidu-int.com/agent/v1/register
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1403) ~[na:1.6.0_24]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:397) ~[na:1.6.0_24]
+	at com.baidu.agile.agent.common.http.HttpClient.request(HttpClient.java:204) [agent.jar:1.0-SNAPSHOT]
+	... 5 common frames omitted
+2022-03-16 15:34:12,732 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:12,744 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:12,785 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:12,820 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:12,849 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:12,863 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:12,885 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:13,248 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:13,258 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:13,296 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:13,298 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:13,324 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:13,368 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:13,394 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:13,435 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:13,991 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:14,029 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:14,060 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:500
+2022-03-16 15:34:14,073 [main] ERROR c.b.a.agent.common.http.HttpClient 219 - http client exception:
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://icoding.baidu-int.com/agent/v1/register
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.6.0_24]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[na:1.6.0_24]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.6.0_24]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:532) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1458) ~[na:1.6.0_24]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1452) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1106) ~[na:1.6.0_24]
+	at com.baidu.agile.agent.common.http.HttpClient.request(HttpClient.java:206) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.common.http.HttpClient.requestRetryTimes(HttpClient.java:163) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.common.http.HttpClient.post(HttpClient.java:158) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.register.Register.register(Register.java:22) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.Launcher.start(Launcher.java:45) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.Main.main(Main.java:44) [agent.jar:1.0-SNAPSHOT]
+Caused by: java.io.IOException: Server returned HTTP response code: 500 for URL: http://icoding.baidu-int.com/agent/v1/register
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1403) ~[na:1.6.0_24]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:397) ~[na:1.6.0_24]
+	at com.baidu.agile.agent.common.http.HttpClient.request(HttpClient.java:204) [agent.jar:1.0-SNAPSHOT]
+	... 5 common frames omitted
+2022-03-16 15:34:14,069 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:14,077 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:14,114 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:14,117 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:14,130 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:14,170 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:14,222 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:14,236 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:14,256 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:14,272 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:14,281 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:14,316 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:15,252 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:15,295 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:15,300 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:15,314 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:15,342 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:15,350 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:15,367 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:15,413 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:15,450 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:15,455 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:15,484 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:15,490 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:15,495 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:15,519 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:16,611 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:16,632 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:16,659 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:16,668 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:16,679 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:16,712 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:16,722 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:16,725 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:16,759 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:16,767 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:16,779 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:16,780 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:500
+2022-03-16 15:34:16,788 [main] ERROR c.b.a.agent.common.http.HttpClient 219 - http client exception:
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://icoding.baidu-int.com/agent/v1/register
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.6.0_24]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[na:1.6.0_24]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.6.0_24]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:532) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1458) ~[na:1.6.0_24]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1452) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1106) ~[na:1.6.0_24]
+	at com.baidu.agile.agent.common.http.HttpClient.request(HttpClient.java:206) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.common.http.HttpClient.requestRetryTimes(HttpClient.java:163) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.common.http.HttpClient.post(HttpClient.java:158) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.register.Register.register(Register.java:22) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.Launcher.start(Launcher.java:45) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.Main.main(Main.java:44) [agent.jar:1.0-SNAPSHOT]
+Caused by: java.io.IOException: Server returned HTTP response code: 500 for URL: http://icoding.baidu-int.com/agent/v1/register
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1403) ~[na:1.6.0_24]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:397) ~[na:1.6.0_24]
+	at com.baidu.agile.agent.common.http.HttpClient.request(HttpClient.java:204) [agent.jar:1.0-SNAPSHOT]
+	... 5 common frames omitted
+2022-03-16 15:34:16,811 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:16,936 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:16,969 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:17,905 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:17,936 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:17,947 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:17,959 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:17,969 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:500
+2022-03-16 15:34:17,976 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:17,976 [main] ERROR c.b.a.agent.common.http.HttpClient 219 - http client exception:
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://icoding.baidu-int.com/agent/v1/register
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.6.0_24]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57) ~[na:1.6.0_24]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.6.0_24]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:532) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1458) ~[na:1.6.0_24]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1452) ~[na:1.6.0_24]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1106) ~[na:1.6.0_24]
+	at com.baidu.agile.agent.common.http.HttpClient.request(HttpClient.java:206) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.common.http.HttpClient.requestRetryTimes(HttpClient.java:163) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.common.http.HttpClient.post(HttpClient.java:158) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.register.Register.register(Register.java:22) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.Launcher.start(Launcher.java:45) [agent.jar:1.0-SNAPSHOT]
+	at com.baidu.agile.agent.Main.main(Main.java:44) [agent.jar:1.0-SNAPSHOT]
+Caused by: java.io.IOException: Server returned HTTP response code: 500 for URL: http://icoding.baidu-int.com/agent/v1/register
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1403) ~[na:1.6.0_24]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:397) ~[na:1.6.0_24]
+	at com.baidu.agile.agent.common.http.HttpClient.request(HttpClient.java:204) [agent.jar:1.0-SNAPSHOT]
+	... 5 common frames omitted
+2022-03-16 15:34:17,981 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:17,998 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:18,016 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:18,027 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:18,058 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:18,128 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:18,152 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:18,163 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:18,196 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:19,157 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:19,177 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:19,182 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:19,197 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:19,211 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:19,216 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:19,229 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:19,251 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:19,254 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:19,296 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:19,341 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:19,381 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-16 15:34:19,402 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-16 15:34:19,442 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:17,755 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:17,777 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:17,796 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:17,802 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:17,817 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:17,836 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:17,896 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:17,916 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:17,933 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:17,950 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:17,980 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:18,011 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:18,024 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:18,056 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:18,404 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:18,439 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:18,475 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:18,509 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:18,540 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:18,541 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:18,573 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:18,575 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:18,975 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:18,994 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:19,010 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:19,008 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:19,029 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:19,044 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:19,095 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:19,131 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:19,138 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:19,177 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:19,255 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:19,257 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:19,293 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:19,301 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:20,201 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:20,213 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:20,241 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:20,254 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:20,252 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:20,295 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:20,303 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:20,344 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:20,374 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:20,416 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:20,471 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:20,471 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:20,506 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:20,508 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:21,440 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:21,481 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:21,485 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:21,498 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:21,502 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:21,514 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:21,543 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:21,550 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:21,581 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:21,616 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:21,666 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:21,671 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:21,701 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:21,715 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:22,678 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:22,683 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:22,711 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:22,718 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:22,724 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:22,746 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:22,766 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:22,780 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:22,822 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:22,863 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:22,888 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:22,906 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:22,923 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:22,941 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:23,892 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:23,921 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:23,934 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:23,946 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:23,960 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:23,982 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:23,984 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:24,020 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:24,057 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:24,099 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:24,119 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:24,122 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-24 22:14:24,155 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-24 22:14:24,163 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:22,523 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:22,564 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:22,574 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:22,622 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:22,719 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:22,757 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:22,819 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:22,862 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:22,888 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:22,931 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:22,997 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:23,001 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:23,036 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:23,038 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:23,426 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:23,464 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:23,536 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:23,554 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:23,571 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:23,627 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:23,633 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:23,683 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:24,018 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:24,083 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:24,131 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:24,171 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:24,173 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:24,213 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:24,332 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:24,375 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:24,446 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:24,482 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:24,489 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:24,527 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:24,557 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:24,597 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:25,579 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:25,623 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:25,663 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:25,694 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:25,707 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:25,724 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:25,763 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:25,781 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:25,858 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:25,901 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:25,899 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:25,936 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:25,988 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:26,033 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:27,022 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:27,054 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:27,086 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:27,086 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:27,105 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:27,126 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:27,187 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:27,225 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:27,288 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:27,328 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:27,329 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:27,365 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:27,437 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:27,499 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:28,415 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:28,451 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:28,524 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:28,539 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:28,563 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:28,587 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:28,631 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:28,676 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:28,710 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:28,762 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:28,877 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:28,916 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:28,940 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:28,977 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:29,833 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:29,868 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:30,040 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:30,047 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:30,049 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:30,084 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:30,085 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:30,088 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:30,185 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:30,240 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:30,384 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:30,387 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-03-25 22:24:30,425 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-03-25 22:24:30,444 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,180 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,216 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,264 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,291 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,303 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,335 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,392 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,392 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,404 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,419 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,431 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,434 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,447 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,468 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,788 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,826 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,832 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,866 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,958 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,963 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:23,999 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:23,999 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:24,514 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:24,557 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:24,575 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:24,596 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:24,611 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:24,641 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:24,651 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:24,694 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:24,699 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:24,725 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:24,733 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:24,730 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:24,765 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:24,778 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:25,828 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:25,846 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:25,873 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:25,885 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:25,893 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:25,907 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:25,920 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:25,951 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:25,967 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:25,968 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:26,001 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:26,001 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:26,012 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:26,036 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:27,078 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:27,111 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:27,117 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:27,125 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:27,124 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:27,146 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:27,160 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:27,166 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:27,196 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:27,226 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:27,231 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:27,234 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:27,271 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:27,281 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:28,354 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:28,372 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:28,373 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:28,389 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:28,397 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:28,409 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:28,415 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:28,429 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:28,434 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:28,484 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:28,515 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:28,517 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:28,560 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:28,561 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:29,656 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:29,678 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:29,712 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:29,734 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:29,738 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:29,737 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:29,776 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:29,774 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:29,777 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:29,810 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:29,890 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:29,911 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-02 14:21:29,929 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-02 14:21:29,953 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:58,153 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:58,196 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:58,200 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:58,236 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:58,254 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:58,292 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:58,298 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:58,326 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:58,329 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:58,364 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:58,368 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:58,397 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:58,431 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:58,432 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:58,903 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:58,940 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:58,951 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:58,990 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:59,091 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:59,114 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST https://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:59,124 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:59,150 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:59,402 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:59,443 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:59,480 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:59,519 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:59,613 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:59,616 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:59,654 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:59,662 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:59,717 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:59,717 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:59,717 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:51:59,752 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:59,756 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:51:59,756 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:00,696 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:00,741 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:00,754 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:00,799 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:00,905 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:00,940 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:00,939 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:00,973 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:00,978 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:00,993 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:01,015 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:01,020 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:01,033 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:01,062 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:01,947 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:02,004 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:02,043 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:02,109 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:02,140 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:02,174 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:02,184 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:02,209 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:02,225 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:02,241 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:02,265 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:02,293 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:02,293 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:02,342 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:03,223 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:03,259 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:03,293 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:03,331 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:03,420 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:03,474 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:03,487 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:03,522 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:03,613 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:03,653 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:03,648 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:03,654 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:03,690 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:03,700 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:04,596 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:04,614 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:04,634 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:04,658 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:04,767 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:04,781 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:04,803 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:04,827 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:04,912 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:04,915 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:04,938 [main] INFO  c.b.a.agent.common.http.HttpClient 204 - POST http://icoding.baidu-int.com/agent/v1/register:200
+2022-04-06 17:52:04,948 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:04,955 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
+2022-04-06 17:52:04,979 [main] ERROR c.b.agile.agent.register.Register 69 - register return: code:902, error:query agent from db error! same agent has started up!
