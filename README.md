@@ -11,17 +11,29 @@ In addition, our pre-processing depends on a 3D reconstruction approach "DECA: D
 
 ## Usage
 
-### Pre-processing
+### Inference
+1. First, download the [pretrained models](https://unisyd-my.sharepoint.com/:f:/g/personal/kaisiyuan_wang_sydney_edu_au/Erym9uRQ_2ZMjxiIJu2Ru78BooBB5TMPxGVFVOKi-7AyhQ?e=Wferw2) and put them in the corresponding folder.
+3. Run the following command to synthesize
+```
+cd Reenactment
+sh demo.sh
+```
+3. The results are stored in outputs folder. 
+
+### Training
+#### Pre-processing
 Given a portrait video (with a static background), we first extract the frames and crop the human face part out at the resolution of 512 x 512 by running
 ```
-python pre-processing.py -i [video_path, xxx.mp4] -o [data_path, /%05d.jpg]
+python pre_processing.py -i [video_path, xxx.mp4] -o [data_path, /%05d.jpg]
 ```
 Sometimes the cropping will not be perfect, as some portraits have special facial structures. Please feel free to adjust the ratio value in this script, so that the entire human head part can be included.
+
+You can either select videos from [HDTF](https://github.com/MRzzm/HDTF) or just record a video yourself, and the processed data should be stored in the "Dataset" Folder, which is structured as below:
+
 
 ![image](https://github.com/uniBruce/Mead/blob/master/Figures/dataset.png)
                   
 
-### Training
 #### Stage 1: Efficient Portrait Modeling
 ```
 cd Grid_Codebook_Modeling
@@ -31,31 +43,8 @@ The training data folder can be assigned at "Grid_Codebook_Modeling/config/lrw_t
 #### Stage 2: Landmark-to-Image Reenactment
 ```
 cd Reenactment
-python train_single.py --data_root ['your dataset path'] -m ['Subject_name'] --load_path ['Pretrain Model path'] --gpu ["gpu_id"]
+python train_grid.py --data_root ['your dataset path'] -m ['Subject_name'] --load_path ['Pretrain Model path'] --gpu ["gpu_id"]
 ```
-### Testing
-1. First, download the [pretrained models](https://drive.google.com/drive/folders/1NgW0pqKU-jawqSi-RXiebUcI1_qj6wxM?usp=sharing) and put them in models folder.
-2. Second, download the [demo audio data](https://drive.google.com/file/d/1G0sclW7AHqofyQAZFf6DqH4sTYSR85S9/view?usp=sharing).
-3. Run the following command to generate a talking sequence with a specific emotion
-```
-cd Refinement
-python demo.py --config config_demo.yaml
-```
-You can try different emotions by replacing the number with other integers from 0~7.
-- 0:angry
-- 1:disgust
-- 2:contempt
-- 3:fear
-- 4:happy
-- 5:sad
-- 6:surprised
-- 7:neutral
-
-In addition, you can also try compound emotion by setting up two different emotions at the same time.
-
-![image](https://github.com/uniBruce/Mead/blob/master/Figures/compound_emotion.png)
-
-3. The results are stored in outputs folder. 
 
 ## Citation
 If you find this code useful for your research, please cite our paper:
@@ -78,3 +67,5 @@ If you find this code useful for your research, please cite our paper:
     series = {SIGGRAPH '23}
 }
 ```
+## Acknowledgement
+This repo is built on [VQGAN](https://github.com/CompVis/taming-transformers) code, and we also borrow some architecture codes from [ViT](https://github.com/lucidrains/vit-pytorch) and [LSP](https://github.com/YuanxunLu/LiveSpeechPortraits).
