@@ -3,7 +3,7 @@ by [Kaisiyuan Wang](https://unibruce.github.io/), [Hang Zhou](https://hangz-nju-
 ## Introduction
 This repository is a PyTorch implementation of our Siggraph 2023 paper [Efficient Video Portrait Reenactment via Grid-based Codebook](https://wywu.github.io/projects/VPGC_website).
 
-![image](https://github.com/uniBruce/Mead/blob/master/Figures/pipeline.png)
+![image](https://github.com/uniBruce/VPGC_Pytorch/tree/main/Figures/pipeline.png)
 
 ## Installation 
 This repository is based on Pytorch, so please follow the official instructions [here](https://pytorch.org/). The code is tested under pytorch1.7 and Python 3.6 on Ubuntu 16.04.
@@ -31,7 +31,7 @@ Sometimes the cropping will not be perfect, as some portraits have special facia
 You can either select videos from [HDTF](https://github.com/MRzzm/HDTF) or just record a video yourself, and the processed data should be stored in the "Dataset" Folder, which is structured as below:
 
 
-![image](https://github.com/uniBruce/Mead/blob/master/Figures/dataset.png)
+![image](https://github.com/uniBruce/VPGC_Pytorch/tree/main/Figures/dataset.png)
                   
 
 #### Stage 1: Efficient Portrait Modeling
@@ -45,7 +45,8 @@ The training data folder can be assigned at "Grid_Codebook_Modeling/config/lrw_t
 cd Reenactment
 python train_grid.py --data_root ['your dataset path'] -m ['Subject_name'] --load_path ['Pretrain Model path'] --gpu ["gpu_id"]
 ```
-
+During training Stage 1, you will notice our VPGC has a much faster convergence process than VQGAN based on the vanilla codebook. A comparison of intermediate training results is shown below:
+![image](https://github.com/uniBruce/VPGC_Pytorch/tree/main/Figures/efficiency.gif)
 ## Citation
 If you find this code useful for your research, please cite our paper:
 ```
