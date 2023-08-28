@@ -3,6 +3,7 @@ by [Kaisiyuan Wang](https://unibruce.github.io/), [Hang Zhou](https://hangz-nju-
 ## Introduction
 This repository is a PyTorch implementation of our Siggraph 2023 paper [Efficient Video Portrait Reenactment via Grid-based Codebook](https://wywu.github.io/projects/VPGC_website).
 
+<img src="Figures/pipeline.png" width="30%">
 ![image](https://github.com/uniBruce/VPGC_Pytorch/tree/main/Figures/pipeline.png)
 
 ## Installation 
