@@ -46,7 +46,7 @@ cd Reenactment
 python train_grid.py --data_root ['your dataset path'] -m ['Subject_name'] --load_path ['Pretrain Model path'] --gpu ["gpu_id"]
 ```
 During training Stage 1, you will notice our VPGC has a much faster convergence process than VQGAN based on the vanilla codebook. A comparison of intermediate training results is shown below:
-![image](https://github.com/uniBruce/VPGC_Pytorch/blob/main/Figures/efficiency.gif)
+![](https://github.com/uniBruce/VPGC_Pytorch/blob/main/Figures/efficiency0.gif)
 ## Citation
 If you find this code useful for your research, please cite our paper:
 ```
