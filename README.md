@@ -12,13 +12,14 @@ In addition, our pre-processing depends on a 3D reconstruction approach "DECA: D
 ## Usage
 
 ### Inference
-1. First, download the [pretrained models](https://unisyd-my.sharepoint.com/:f:/g/personal/kaisiyuan_wang_sydney_edu_au/Erym9uRQ_2ZMjxiIJu2Ru78BooBB5TMPxGVFVOKi-7AyhQ?e=Wferw2) and put them in the corresponding folder.
-3. Run the following command to synthesize
+1. First, find the pre-trained models of a portrait (e.g., Obama and Vicky) from [here](https://unisyd-my.sharepoint.com/:f:/g/personal/kaisiyuan_wang_sydney_edu_au/Erym9uRQ_2ZMjxiIJu2Ru78BooBB5TMPxGVFVOKi-7AyhQ?e=Wferw2). Download his/her folder from both "Grid_Codebook" and "Reenactment" and then put them in a newly created folder "Pretrained". The pre-trained models of each portrait include a codebook model and two reenactment models.
+2. We have provided a set of test examples of Obama in "Dataset/Obama/heatmap/test", and you can assign this directory as the data root in test_grid.py from "Reenactment"
+3. Run the following command to synthesize a high-fidelity facial animation
 ```
 cd Reenactment
 sh demo.sh
 ```
-3. The results are stored in outputs folder. 
+4. The generated videos are stored in the "Results" folder. 
 
 ### Training
 #### Pre-processing
@@ -46,8 +47,8 @@ cd Reenactment
 python train_grid.py --data_root ['your dataset path'] -m ['Subject_name'] --load_path ['Pretrain Model path'] --gpu ["gpu_id"]
 ```
 During training Stage 1, you will notice our VPGC has a much faster convergence process than VQGAN based on the vanilla codebook. A comparison of intermediate training results is shown below:
-<img src="Figures/efficiency0.gif" width="90%">
-![image](https://github.com/uniBruce/VPGC_Pytorch/blob/main/Figures/efficiency0.gif)
+<img src="Figures/efficiency0.gif" width="100%">
+
 ## Citation
 If you find this code useful for your research, please cite our paper:
 ```
