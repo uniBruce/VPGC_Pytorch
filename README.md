@@ -3,17 +3,18 @@ by [Kaisiyuan Wang](https://unibruce.github.io/), [Hang Zhou](https://hangz-nju-
 ## Introduction
 This repository is a PyTorch implementation of our Siggraph 2023 paper [Efficient Video Portrait Reenactment via Grid-based Codebook](https://wywu.github.io/projects/VPGC_website).
 
-![image](https://github.com/uniBruce/Mead/blob/master/Figures/mead.png)
+![image](https://github.com/uniBruce/Mead/blob/master/Figures/pipeline.png)
 
 ## Installation 
-This repository is based on Pytorch, so please follow the official instructions [here](https://pytorch.org/). The code is tested under pytorch1.7 and Python 3.6 on Ubuntu 16.04.  
+This repository is based on Pytorch, so please follow the official instructions [here](https://pytorch.org/). The code is tested under pytorch1.7 and Python 3.6 on Ubuntu 16.04.
+In addition, our pre-processing depends on a 3D reconstruction approach "DECA: Detailed Expression Capture and Animation" to produce 2D facial landmarks as driving signals. Please follow [here](https://github.com/yfeng95/DECA) to install it.
 
 ## Usage
-### Training set & Testing set Split
-Please refer to the Section 6 "Speech Corpus of Mead" in the supplementary material. The speech corpora are basically divided into 3 parts, (i.e., common, generic, and emotion-related). For each intensity level, we directly use the last 10 sentences of neutral category and the last 6 sentences of the other seven emotion categories as the testing set. Note that all the sentences in the testing set come from the "emotion-related" part. Meanwhile if you are trying to manipulate the emotion category, you can use all the 40 sentences of neutral category as the input samples.
+
+### Pre-processing
+
+
 ### Training
-1. Download the dataset from [here](https://wywu.github.io/projects/MEAD/MEAD.html). We package the audio-visual data of each actor in a single folder named after "MXXX" or "WXXX", where "M" and "W" indicate actor and actress, respectively.
-2. As Mead requires different modules to achieve different functions, thus we seperate the training for Mead into three stages. In each stage, the corresponding configuration (.yaml file) should be set up accordingly, and used as below:
 #### Stage 1: Audio-to-Landmarks Module
 ```
 cd Audio2Landmark
@@ -56,11 +57,21 @@ In addition, you can also try compound emotion by setting up two different emoti
 ## Citation
 If you find this code useful for your research, please cite our paper:
 ```
-@inproceedings{kaisiyuan2020mead,
- author = {Wang, Kaisiyuan and Wu, Qianyi and Song, Linsen and Yang, Zhuoqian and Wu, Wayne and Qian, Chen and He, Ran and Qiao, Yu and Loy, Chen Change},
- title = {MEAD: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation},
- booktitle = {ECCV},
- month = Augest,
- year = {2020}
-} 
+@inproceedings{10.1145/3588432.3591509,
+    author = {Wang, Kaisiyuan and Zhou, Hang and Wu, Qianyi and Tang, Jiaxiang and Xu, Zhiliang and Liang, Borong and Hu, Tianshu and Ding, Errui and Liu, Jingtuo and Liu, Ziwei and Wang, Jingdong},
+    title = {Efficient Video Portrait Reenactment via Grid-Based Codebook},
+    year = {2023},
+    isbn = {9798400701597},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3588432.3591509},
+    doi = {10.1145/3588432.3591509},
+    abstract = {While progress has been made in the field of portrait reenactment, the problem of how to efficiently produce high-fidelity and accurate videos remains. Recent studies build direct mappings between driving signals and their predictions, leading to failure cases when synthesizing background textures and detailed local motions. In this paper, we propose the Video Portrait via Grid-based Codebook (VPGC) framework, which achieves efficient and high-fidelity portrait modeling. Our key insight is to query driving signals in a position-aware textural codebook with an explicit grid structure. The grid-based codebook stores delicate textural information locally according to our observations on video portraits, which can be learned efficiently and precisely. We subsequently design a Prior-Guided Driving Module to predict reliable features from the driving signals, which can be later decoded back to high-quality video portraits by querying the codebook. Comprehensive experiments are conducted to validate the effectiveness of our approach.},
+    booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
+    articleno = {66},
+    numpages = {9},
+    keywords = {Facial Animation, Video Synthesis},
+    location = {Los Angeles, CA, USA},
+    series = {SIGGRAPH '23}
+}
 ```
